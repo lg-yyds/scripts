@@ -1,6 +1,6 @@
 #!/bin/sh
 
-NZ_BASE_PATH="/opt/nezha"
+NZ_BASE_PATH="/root/nezha"
 NZ_AGENT_PATH="${NZ_BASE_PATH}/agent"
 
 red='\033[0;31m'
